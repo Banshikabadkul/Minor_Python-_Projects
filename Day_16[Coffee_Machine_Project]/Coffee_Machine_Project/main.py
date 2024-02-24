@@ -66,15 +66,18 @@ while(is_on):
                 make_coffee(choice, drink['ingredients'])
 
 
-#  ##Create a new repository on the command line
+#  Create a new repository on the command line
 
 #  git init
+# git status
+# git add .
+# create .gitignore file and add
 #  git add README.md
 #  git commit -m "first commit"
+# to remove gitignore files to giignore ..  git-rm--r cached node_modules  
 
-
-# // git remote remove origin
-# // remote -v   
-# // git branch -M main  
-# // git remote add origin https://github.com/Banshikabadkul/Hotels.git
-# // git push -u origin main
+#  git remote remove origin
+#  remote -v   
+#  git branch -M main  
+#  git remote add origin https://github.com/Banshikabadkul/Hotels.git
+#  git push -u origin main
